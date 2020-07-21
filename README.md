@@ -1,3 +1,3 @@
 # task-todo-react
-npm install
-npm start
+#npm install
+#npm start
